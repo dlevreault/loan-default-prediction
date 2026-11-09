@@ -98,7 +98,3 @@ Potential future improvements include:
 * Additional feature engineering
 * Deployment as a web application
 * Model explainability techniques
-
-## Author
-
-Darren Levreault
